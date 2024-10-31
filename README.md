@@ -2,7 +2,7 @@ This repository contains data scraped from the GitHub API for users in Berlin wi
 
 **users.csv**: Information about each user.<br>
 **repositories.csv**: Information about the public repositories of each user.<br>
-**notebook** : jupyter notebook for analysis
+**Notebook - GitHub API** : jupyter notebook for analysis
 
 In Summary - 
 

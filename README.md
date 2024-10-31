@@ -16,7 +16,7 @@ API Requests: Utilized the GitHub API to fetch user data and their repositories 
 Data Filtering: Filtered users based on follower count, hireable status, and account creation dates.
 Data Storage: Compiled the relevant data into CSV files for analysis, utilizing Pandas for data manipulation.<br><br>
 Interesting Finding
-The most common surname identified was "Schneider," which had only three users associated with it. This indicates a limited representation of surnames among developers in Berlin, potentially reflecting broader trends in the local tech community or demographic.<br><br>
+The most common surname identified was "Schneider," which had only three users associated with it. This indicates a limited representation of surnames among developers in Berlin, potentially reflecting broader trends in the local tech community or demographic.<br>
 
 Actionable Recommendation
 To increase visibility and hiring opportunities, developers should prioritize creating comprehensive profiles, including email addresses, and actively participating in open-source projects. This is particularly important as hireable users had a slightly lower tendency to share their emails, indicating potential areas for improvement in professional networking.

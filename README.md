@@ -10,14 +10,14 @@ In Summary -
 2) A Interesting finding was that the most common surname among users was Schneider, with only three occurrences. This suggests a relatively low diversity in surnames among the sampled developers.
 3) Developers should consider enhancing their profiles and engagement, as hireable users had a marginally lower chance of sharing email addresses. This might suggest potential improvements in networking and job opportunities.
 
-In details - 
+In Details - 
 
-Data Scraping Summary<br>
+**Data Scraping Summary**<br>
 API Requests: Utilized the GitHub API to fetch user data and their repositories for individuals located in Berlin.<br>
 Data Filtering: Filtered users based on follower count, hireable status, and account creation dates.<br>
 Data Storage: Compiled the relevant data into CSV files for analysis, utilizing Pandas for data manipulation.<br><br>
-Interesting Finding<br>
+**Interesting Finding**<br>
 The most common surname identified was "Schneider," which had only three users associated with it. This indicates a limited representation of surnames among developers in Berlin, potentially reflecting broader trends in the local tech community or demographic.<br>
 
-Actionable Recommendation<br>
+**Actionable Recommendation**<br>
 To increase visibility and hiring opportunities, developers should prioritize creating comprehensive profiles, including email addresses, and actively participating in open-source projects. This is particularly important as hireable users had a slightly lower tendency to share their emails, indicating potential areas for improvement in professional networking.
